@@ -1,2 +1,2 @@
 # Wallets
-Wallet Downloads
+Wallet downloads for Windows, Linux, and Mac OSx
