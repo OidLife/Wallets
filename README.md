@@ -9,17 +9,20 @@ Find the file named:
     
 https://github.com/OidLife/Wallets/raw/master/opioid-qt.dmg
 
+
 Linux:
 Find the file named:  
     ```opioid-qt-linux.tar.gz```
     
 https://github.com/OidLife/Wallets/raw/master/opioid-qt-linux.tar.gz
 
+
 Windows:
 Find the file named:  
     ```opioid-qt-windows.zip```
     
 https://github.com/OidLife/Wallets/raw/master/opioid-qt-windows.zip
+
 
 
 Once you have downloaded the correct file, just extract to your desktop and run the application.
