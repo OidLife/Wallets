@@ -1,6 +1,8 @@
 # Wallets
 #### Wallet downloads for Windows, Linux, and Mac OSx.
 
+v1.0.0.0
+
 To download the wallet, click on the correct version for your operating system.
 
 Mac OSx:
