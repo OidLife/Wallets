@@ -10,6 +10,8 @@ Find the file named:
 ```opioid-qt.dmg```  
 https://github.com/OidLife/Wallets/raw/master/opioid-qt.dmg
 
+#### Note: *Mac wallets may experience splash image, logo and icon related issues.*
+
 
 Linux:
 Find the file named:  
