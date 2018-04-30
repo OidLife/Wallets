@@ -8,7 +8,7 @@ v1.0.0.0
 
 To download the wallet, click on the correct version for your operating system.
 
-Mac OSx:
+## Mac OSx:
 Find the file named:  
 ```opioid-qt.dmg```  
 https://github.com/OidLife/Wallets/raw/master/opioid-qt.dmg
@@ -16,13 +16,13 @@ https://github.com/OidLife/Wallets/raw/master/opioid-qt.dmg
 #### Note: *Mac wallets may experience splash image, logo and icon related issues.*
 
 
-Linux:
+## Linux:
 Find the file named:  
 ```opioid-qt-linux.tar.gz```  
 https://github.com/OidLife/Wallets/raw/master/opioid-qt-linux.tar.gz
 
 
-Windows:
+# Windows:
 Find the file named:  
 ```opioid-qt-windows.zip```  
 https://github.com/OidLife/Wallets/raw/master/opioid-qt-windows.zip
